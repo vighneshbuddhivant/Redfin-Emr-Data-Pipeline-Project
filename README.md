@@ -2,13 +2,14 @@
 
 ## Overview
 This project demonstrates the process of extracting real estate data from the Redfin Data Center, transforming it using PySpark on Amazon EMR, and storing the final transformed data into an S3 bucket. We leverage Amazon EMR for scalable data processing and use Jupyter Notebook as our development environment. The workflow includes raw data extraction from the Redfin data source, cleaning and transforming the data, and finally storing the results in the S3 bucket.
+
 **Data Source:** [Redfin Data Center](https://www.redfin.com/news/data-center/)
 
 ---
 
 ## Architecture Diagram
 
-
+![](https://github.com/vighneshbuddhivant/Redfin-Emr-Data-Pipeline-Project/blob/efe70cea9b3158a237d9dd4c910681baae6e09dc/emrpipeline.png)
 
 ---
 
